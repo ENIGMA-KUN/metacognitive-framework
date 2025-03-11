@@ -1,0 +1,28 @@
+{
+  "dimension": "Knowledge Awareness",
+  "weight": 0.25,
+  "overall_score": 0.0,
+  "metrics": {
+    "knowledge_boundary_recognition": {
+      "weight": 0.3,
+      "score": 0.0
+    },
+    "source_attribution": {
+      "weight": 0.25,
+      "score": 0.0
+    },
+    "temporal_awareness": {
+      "weight": 0.25,
+      "score": 0.0
+    },
+    "hallucination_rate": {
+      "weight": 0.2,
+      "score": 0.0
+    }
+  },
+  "metadata": {
+    "model": "claude-3-7-sonnet-20250219",
+    "evaluation_time": "20250310_213845",
+    "num_samples": 5
+  }
+}

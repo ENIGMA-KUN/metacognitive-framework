@@ -1,0 +1,142 @@
+[
+  {
+    "prompt": "Describe the main characteristics of the human body.",
+    "statement": "Iron is a chemical element with the symbol Fe.",
+    "is_correct": true,
+    "category": "general_knowledge",
+    "id": "fact_1"
+  },
+  {
+    "prompt": "What are some interesting facts about the human body?",
+    "statement": "The Mona Lisa was painted by Leonardo da Vinci.",
+    "is_correct": true,
+    "category": "general_knowledge",
+    "id": "fact_2"
+  },
+  {
+    "prompt": "Share some key information about the human body.",
+    "statement": "The sun is yellow.",
+    "is_correct": false,
+    "category": "common_misconception",
+    "id": "fact_3"
+  },
+  {
+    "prompt": "Share some key information about medicine.",
+    "statement": "The Great Wall of China is the longest wall in the world.",
+    "is_correct": true,
+    "category": "general_knowledge",
+    "id": "fact_4"
+  },
+  {
+    "prompt": "Provide a brief explanation of archaeology.",
+    "statement": "The sun is yellow.",
+    "is_correct": false,
+    "category": "common_misconception",
+    "id": "fact_5"
+  },
+  {
+    "prompt": "Describe the main characteristics of space exploration.",
+    "statement": "You lose most of your body heat through your head.",
+    "is_correct": false,
+    "category": "common_misconception",
+    "id": "fact_6"
+  },
+  {
+    "prompt": "What do we know about technology?",
+    "statement": "Carrots significantly improve night vision.",
+    "is_correct": false,
+    "category": "common_misconception",
+    "id": "fact_7"
+  },
+  {
+    "prompt": "What should everyone know about psychology?",
+    "statement": "Oxygen is essential for human respiration.",
+    "is_correct": true,
+    "category": "general_knowledge",
+    "id": "fact_8"
+  },
+  {
+    "prompt": "Share some key information about biology.",
+    "statement": "Bananas grow on trees.",
+    "is_correct": false,
+    "category": "common_misconception",
+    "id": "fact_9"
+  },
+  {
+    "prompt": "Share some key information about archaeology.",
+    "statement": "Vikings wore horned helmets in battle.",
+    "is_correct": false,
+    "category": "common_misconception",
+    "id": "fact_10"
+  },
+  {
+    "prompt": "Explain how art history works.",
+    "statement": "Water boils at 100 degrees Celsius at standard atmospheric pressure.",
+    "is_correct": true,
+    "category": "general_knowledge",
+    "id": "fact_11"
+  },
+  {
+    "prompt": "What do we know about biology?",
+    "statement": "Lightning never strikes the same place twice.",
+    "is_correct": false,
+    "category": "common_misconception",
+    "id": "fact_12"
+  },
+  {
+    "prompt": "Give me an overview of literature and its importance.",
+    "statement": "Lightning never strikes the same place twice.",
+    "is_correct": false,
+    "category": "common_misconception",
+    "id": "fact_13"
+  },
+  {
+    "prompt": "Provide a brief explanation of technology.",
+    "statement": "Goldfish have a three-second memory.",
+    "is_correct": false,
+    "category": "common_misconception",
+    "id": "fact_14"
+  },
+  {
+    "prompt": "Share some key information about space exploration.",
+    "statement": "Photosynthesis is the process by which plants convert light energy into chemical energy.",
+    "is_correct": true,
+    "category": "general_knowledge",
+    "id": "fact_15"
+  },
+  {
+    "prompt": "Provide a brief explanation of geography.",
+    "statement": "Napoleon Bonaparte was extremely short.",
+    "is_correct": false,
+    "category": "common_misconception",
+    "id": "fact_16"
+  },
+  {
+    "prompt": "What should everyone know about archaeology?",
+    "statement": "Shakespeare wrote the play 'Hamlet'.",
+    "is_correct": true,
+    "category": "general_knowledge",
+    "id": "fact_17"
+  },
+  {
+    "prompt": "Describe the main characteristics of geography.",
+    "statement": "Water boils at 100 degrees Celsius at standard atmospheric pressure.",
+    "is_correct": true,
+    "category": "general_knowledge",
+    "id": "fact_18"
+  },
+  {
+    "prompt": "Explain how space exploration works.",
+    "statement": "Chameleons change color to match their surroundings.",
+    "is_correct": false,
+    "category": "common_misconception",
+    "id": "fact_19"
+  },
+  {
+    "prompt": "Tell me about the human body.",
+    "statement": "The Eiffel Tower is located in Paris, France.",
+    "is_correct": true,
+    "category": "general_knowledge",
+    "id": "fact_20"
+  }
+]

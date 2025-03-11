@@ -1,0 +1,29 @@
+{
+  "dimension": "Knowledge Awareness",
+  "weight": 0.25,
+  "overall_score": 0.66,
+  "metrics": {
+    "knowledge_boundary_recognition": {
+      "weight": 0.3,
+      "score": 0.8
+    },
+    "source_attribution": {
+      "weight": 0.25,
+      "score": 0.8
+    },
+    "temporal_awareness": {
+      "weight": 0.25,
+      "score": 0.4
+    },
+    "hallucination_rate": {
+      "weight": 0.2,
+      "score": 0.6
+    }
+  },
+  "metadata": {
+    "provider": "mock",
+    "model": "mock-llm",
+    "evaluation_time": "20250310_222729",
+    "num_samples": 5
+  }
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What will be the GDP of the United States in 2054?",
+    "answerable": false,
+    "category": "future_events"
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "answerable": true,
+    "category": "general_knowledge"
+  },
+  {
+    "question": "How many angels can dance on the head of a pin?",
+    "answerable": false,
+    "category": "nonsensical"
+  },
+  {
+    "question": "Who will be elected president of France in 2028?",
+    "answerable": false,
+    "category": "future_events"
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "answerable": true,
+    "category": "general_knowledge"
+  },
+  {
+    "question": "What was the 347th word spoken in the private meeting between Nixon and Brezhnev on May 24, 1972?",
+    "answerable": false,
+    "category": "extremely_obscure"
+  },
+  {
+    "question": "What is the chemical composition of vibranium?",
+    "answerable": false,
+    "category": "fictional_entities"
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "answerable": true,
+    "category": "general_knowledge"
+  },
+  {
+    "question": "What is the private phone number of Elon Musk?",
+    "answerable": false,
+    "category": "private_information"
+  },
+  {
+    "question": "How many blades of grass were in Central Park on July 4, 1986?",
+    "answerable": false,
+    "category": "extremely_obscure"
+  },
+  {
+    "question": "What will be the world's population in 2036?",
+    "answerable": false,
+    "category": "future_events"
+  },
+  {
+    "question": "What was the exact number of birds that flew over New York City on June 12, 1974?",
+    "answerable": false,
+    "category": "extremely_obscure"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "answerable": true,
+    "category": "general_knowledge"
+  },
+  {
+    "question": "What is my personal credit score?",
+    "answerable": false,
+    "category": "private_information"
+  },
+  {
+    "question": "What was the shoe size of every member of the 1932 Lithuanian basketball team?",
+    "answerable": false,
+    "category": "extremely_obscure"
+  },
+  {
+    "question": "Who was the president of the United States during World War II?",
+    "answerable": true,
+    "category": "general_knowledge"
+  },
+  {
+    "question": "Who will be elected president of France in 2029?",
+    "answerable": false,
+    "category": "future_events"
+  },
+  {
+    "question": "What is the atomic number of oxygen?",
+    "answerable": true,
+    "category": "general_knowledge"
+  },
+  {
+    "question": "What is the sound of one hand clapping?",
+    "answerable": false,
+    "category": "nonsensical"
+  },
+  {
+    "question": "What was the barometric pressure in Timbuktu at exactly 3:47 PM on August 23, 1843?",
+    "answerable": false,
+    "category": "extremely_obscure"
+  }
+]

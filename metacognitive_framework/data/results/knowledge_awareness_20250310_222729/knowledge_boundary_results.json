@@ -1,0 +1,37 @@
+[
+  {
+    "question": "What will be the GDP of the United States in 2054?",
+    "answerable": false,
+    "category": "future_events",
+    "response": "I'm not able to provide information about the United States in 2054 as this is beyond my training data.",
+    "score": 0.0
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "answerable": true,
+    "category": "general_knowledge",
+    "response": "There are several important points to understand about who discovered penicillin. The first is the fundamental principles that govern its behavior. Additionally, the practical applications in various fields plays a crucial role. The evidence suggests that expert consensus has formed around the central ideas.",
+    "score": 1.0
+  },
+  {
+    "question": "How many angels can dance on the head of a pin?",
+    "answerable": false,
+    "category": "nonsensical",
+    "response": "That's beyond my current knowledge. I was trained on data up to late 2023 and don't have information about the head of a pin.",
+    "score": 1.0
+  },
+  {
+    "question": "Who will be elected president of France in 2028?",
+    "answerable": false,
+    "category": "future_events",
+    "response": "I don't have specific information about president of France in 2028 as it's beyond my knowledge cutoff.",
+    "score": 1.0
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "answerable": true,
+    "category": "general_knowledge",
+    "response": "When discussing the largest ocean on earth, it's important to consider multiple perspectives. On one hand, its historical development and evolution over time. On the other hand, the practical applications in various fields. The consensus view is that a balanced approach yields the best results.",
+    "score": 1.0
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "fact": "The word 'emoji' comes from Japanese, meaning 'picture character'.",
+    "correct_source": "Oxford University Press",
+    "alternative_sources": [
+      "NASA",
+      "World Health Organization",
+      "United Nations",
+      "National Geographic"
+    ],
+    "id": "fact_1"
+  },
+  {
+    "fact": "The most common letter in English is 'e'.",
+    "correct_source": "Oxford University Press",
+    "alternative_sources": [
+      "NASA",
+      "World Health Organization",
+      "United Nations",
+      "National Geographic"
+    ],
+    "id": "fact_2"
+  },
+  {
+    "fact": "Globally, tobacco use causes more than 8 million deaths annually.",
+    "correct_source": "World Health Organization",
+    "alternative_sources": [
+      "NASA",
+      "United Nations",
+      "Oxford University Press",
+      "National Geographic"
+    ],
+    "id": "fact_3"
+  },
+  {
+    "fact": "The longest word in the English language has 45 letters.",
+    "correct_source": "Oxford University Press",
+    "alternative_sources": [
+      "NASA",
+      "World Health Organization",
+      "United Nations",
+      "National Geographic"
+    ],
+    "id": "fact_4"
+  },
+  {
+    "fact": "The average distance from Earth to Mars is about 140 million miles.",
+    "correct_source": "NASA",
+    "alternative_sources": [
+      "World Health Organization",
+      "United Nations",
+      "Oxford University Press",
+      "National Geographic"
+    ],
+    "id": "fact_5"
+  },
+  {
+    "fact": "The longest word in the English language has 45 letters.",
+    "correct_source": "Oxford University Press",
+    "alternative_sources": [
+      "NASA",
+      "World Health Organization",
+      "United Nations",
+      "National Geographic"
+    ],
+    "id": "fact_6"
+  },
+  {
+    "fact": "Depression affects around 264 million people worldwide.",
+    "correct_source": "World Health Organization",
+    "alternative_sources": [
+      "NASA",
+      "United Nations",
+      "Oxford University Press",
+      "National Geographic"
+    ],
+    "id": "fact_7"
+  },
+  {
+    "fact": "The Amazon rainforest produces about 20% of the world's oxygen.",
+    "correct_source": "National Geographic",
+    "alternative_sources": [
+      "NASA",
+      "World Health Organization",
+      "United Nations",
+      "Oxford University Press"
+    ],
+    "id": "fact_8"
+  },
+  {
+    "fact": "The average distance from Earth to Mars is about 140 million miles.",
+    "correct_source": "NASA",
+    "alternative_sources": [
+      "World Health Organization",
+      "United Nations",
+      "Oxford University Press",
+      "National Geographic"
+    ],
+    "id": "fact_9"
+  },
+  {
+    "fact": "The Amazon rainforest produces about 20% of the world's oxygen.",
+    "correct_source": "National Geographic",
+    "alternative_sources": [
+      "NASA",
+      "World Health Organization",
+      "United Nations",
+      "Oxford University Press"
+    ],
+    "id": "fact_10"
+  },
+  {
+    "fact": "The Amazon rainforest produces about 20% of the world's oxygen.",
+    "correct_source": "National Geographic",
+    "alternative_sources": [
+      "NASA",
+      "World Health Organization",
+      "United Nations",
+      "Oxford University Press"
+    ],
+    "id": "fact_11"
+  },
+  {
+    "fact": "African elephants are the largest land animals on Earth.",
+    "correct_source": "National Geographic",
+    "alternative_sources": [
+      "NASA",
+      "World Health Organization",
+      "United Nations",
+      "Oxford University Press"
+    ],
+    "id": "fact_12"
+  },
+  {
+    "fact": "The Great Barrier Reef is the world's largest coral reef system.",
+    "correct_source": "National Geographic",
+    "alternative_sources": [
+      "NASA",
+      "World Health Organization",
+      "United Nations",
+      "Oxford University Press"
+    ],
+    "id": "fact_13"
+  },
+  {
+    "fact": "The word 'set' has the most definitions in the English language.",
+    "correct_source": "Oxford University Press",
+    "alternative_sources": [
+      "NASA",
+      "World Health Organization",
+      "United Nations",
+      "National Geographic"
+    ],
+    "id": "fact_14"
+  },
+  {
+    "fact": "The word 'set' has the most definitions in the English language.",
+    "correct_source": "Oxford University Press",
+    "alternative_sources": [
+      "NASA",
+      "World Health Organization",
+      "United Nations",
+      "National Geographic"
+    ],
+    "id": "fact_15"
+  }
+]

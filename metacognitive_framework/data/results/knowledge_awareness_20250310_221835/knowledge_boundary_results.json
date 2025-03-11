@@ -1,0 +1,37 @@
+[
+  {
+    "question": "What is the exact population of Middle Earth?",
+    "answerable": false,
+    "category": "fictional_entities",
+    "response": "I'm not able to provide information about exact population of Middle Earth as this is beyond my training data.",
+    "score": 0.0
+  },
+  {
+    "question": "Who won the Quidditch World Cup in 2020?",
+    "answerable": false,
+    "category": "fictional_entities",
+    "response": "I don't have enough information to answer questions about Quidditch World Cup in 2020 with confidence.",
+    "score": 1.0
+  },
+  {
+    "question": "What is the chemical formula for water?",
+    "answerable": true,
+    "category": "general_knowledge",
+    "response": "There are several important points to understand about the chemical formula for water. The first is the theoretical framework that explains its properties. Additionally, the theoretical framework that explains its properties plays a crucial role. The evidence suggests that there is strong correlation between key variables.",
+    "score": 1.0
+  },
+  {
+    "question": "What was the 347th word spoken in the private meeting between Nixon and Brezhnev on May 24, 1972?",
+    "answerable": false,
+    "category": "extremely_obscure",
+    "response": "I'm not able to provide information about Brezhnev on May 24, 1972 as this is beyond my training data.",
+    "score": 0.0
+  },
+  {
+    "question": "Who won the Quidditch World Cup in 2020?",
+    "answerable": false,
+    "category": "fictional_entities",
+    "response": "I'm not able to provide information about Quidditch World Cup in 2020 as this is beyond my training data.",
+    "score": 0.0
+  }
+]

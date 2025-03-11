@@ -1,0 +1,32 @@
+[
+  {
+    "fact": "The word 'emoji' comes from Japanese, meaning 'picture character'.",
+    "correct_source": "Oxford University Press",
+    "response": "According to Oxford University Press, The word 'emoji' comes from Japanese, meaning 'picture character'. This information is well-documented in the literature.",
+    "score": 1.0
+  },
+  {
+    "fact": "The most common letter in English is 'e'.",
+    "correct_source": "Oxford University Press",
+    "response": "According to Oxford University Press, The most common letter in English is 'e'. This information is well-documented in the literature.",
+    "score": 1.0
+  },
+  {
+    "fact": "Globally, tobacco use causes more than 8 million deaths annually.",
+    "correct_source": "World Health Organization",
+    "response": "According to World Health Organization, Globally, tobacco use causes more than 8 million deaths annually. This information is well-documented in the literature.",
+    "score": 1.0
+  },
+  {
+    "fact": "The longest word in the English language has 45 letters.",
+    "correct_source": "Oxford University Press",
+    "response": "According to Oxford University Press, The longest word in the English language has 45 letters. This information is well-documented in the literature.",
+    "score": 1.0
+  },
+  {
+    "fact": "The average distance from Earth to Mars is about 140 million miles.",
+    "correct_source": "NASA",
+    "response": "According to NASA, the average distance from Earth to Mars is about 140 million miles (225 million kilometers). This large distance varies considerably as both planets orbit the Sun in slightly elliptical paths, so at their closest approach (perihelion), Mars and Earth can be as close as 34.8 million miles (56 million kilometers), while at their furthest (aphelion), they can be as far as 249 million miles (401 million kilometers) apart. The average figure of 140 million miles represents a typical distance across these orbital variations. NASA's planetary data is considered the definitive source for these astronomical measurements.",
+    "score": 0.0
+  }
+]

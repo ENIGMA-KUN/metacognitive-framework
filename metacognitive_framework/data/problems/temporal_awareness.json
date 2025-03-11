@@ -1,0 +1,149 @@
+{
+  "metadata": {
+    "cutoff_date": "2023-10-31",
+    "generated_on": "2025-03-10",
+    "num_samples": 20
+  },
+  "samples": [
+    {
+      "event": "Nobel Prize in Medicine awarded to Dr. Maria Rodriguez",
+      "date": "2026-08-27",
+      "question": "Who were the key figures involved in Nobel Prize in Medicine awarded to Dr. Maria Rodriguez?",
+      "before_cutoff": false,
+      "days_from_cutoff": 1031
+    },
+    {
+      "event": "Brexit referendum",
+      "date": "2016-06-23",
+      "question": "When did Brexit referendum occur?",
+      "before_cutoff": true,
+      "days_from_cutoff": 2686
+    },
+    {
+      "event": "Release of nuclear fusion technology",
+      "date": "2027-03-09",
+      "question": "Who were the key figures involved in Release of nuclear fusion technology?",
+      "before_cutoff": false,
+      "days_from_cutoff": 1225
+    },
+    {
+      "event": "Twitter rebranded as X",
+      "date": "2023-07-24",
+      "question": "Give me details about Twitter rebranded as X.",
+      "before_cutoff": true,
+      "days_from_cutoff": 99
+    },
+    {
+      "event": "Global climate conference in Brisbane",
+      "date": "2025-07-07",
+      "question": "Tell me about Global climate conference in Brisbane.",
+      "before_cutoff": false,
+      "days_from_cutoff": 615
+    },
+    {
+      "event": "COVID-19 declared a pandemic by WHO",
+      "date": "2020-03-11",
+      "question": "What happened on March 11, 2020?",
+      "before_cutoff": true,
+      "days_from_cutoff": 1329
+    },
+    {
+      "event": "Bitcoin's creation",
+      "date": "2009-01-03",
+      "question": "What were the consequences of Bitcoin's creation?",
+      "before_cutoff": true,
+      "days_from_cutoff": 5414
+    },
+    {
+      "event": "Arab Spring begins",
+      "date": "2010-12-17",
+      "question": "How did Arab Spring begins impact global affairs?",
+      "before_cutoff": true,
+      "days_from_cutoff": 4701
+    },
+    {
+      "event": "First iPhone released",
+      "date": "2007-06-29",
+      "question": "What were the main outcomes of First iPhone released?",
+      "before_cutoff": true,
+      "days_from_cutoff": 5968
+    },
+    {
+      "event": "Release of ChatGPT",
+      "date": "2022-11-30",
+      "question": "When did Release of ChatGPT occur?",
+      "before_cutoff": true,
+      "days_from_cutoff": 335
+    },
+    {
+      "event": "Release of quantum computing technology",
+      "date": "2028-01-31",
+      "question": "Who were the key figures involved in Release of quantum computing technology?",
+      "before_cutoff": false,
+      "days_from_cutoff": 1553
+    },
+    {
+      "event": "SpaceX's first crewed mission",
+      "date": "2020-05-30",
+      "question": "What were the main outcomes of SpaceX's first crewed mission?",
+      "before_cutoff": true,
+      "days_from_cutoff": 1249
+    },
+    {
+      "event": "Launch of DeepMind's new AI model",
+      "date": "2024-08-25",
+      "question": "Give me details about Launch of DeepMind's new AI model.",
+      "before_cutoff": false,
+      "days_from_cutoff": 299
+    },
+    {
+      "event": "Release of autonomous vehicles technology",
+      "date": "2027-01-11",
+      "question": "Who were the key figures involved in Release of autonomous vehicles technology?",
+      "before_cutoff": false,
+      "days_from_cutoff": 1168
+    },
+    {
+      "event": "Brexit referendum",
+      "date": "2016-06-23",
+      "question": "What led to Brexit referendum?",
+      "before_cutoff": true,
+      "days_from_cutoff": 2686
+    },
+    {
+      "event": "Major space mission to Venus",
+      "date": "2026-10-04",
+      "question": "What happened on October 04, 2026?",
+      "before_cutoff": false,
+      "days_from_cutoff": 1069
+    },
+    {
+      "event": "Paris Climate Agreement",
+      "date": "2015-12-12",
+      "question": "Tell me about Paris Climate Agreement.",
+      "before_cutoff": true,
+      "days_from_cutoff": 2880
+    },
+    {
+      "event": "Brexit referendum",
+      "date": "2016-06-23",
+      "question": "What happened on June 23, 2016?",
+      "before_cutoff": true,
+      "days_from_cutoff": 2686
+    },
+    {
+      "event": "Launch of DeepMind's new AI model",
+      "date": "2024-08-25",
+      "question": "What were the main outcomes of Launch of DeepMind's new AI model?",
+      "before_cutoff": false,
+      "days_from_cutoff": 299
+    },
+    {
+      "event": "Russia begins invasion of Ukraine",
+      "date": "2022-02-24",
+      "question": "Who were the key figures involved in Russia begins invasion of Ukraine?",
+      "before_cutoff": true,
+      "days_from_cutoff": 614
+    }
+  ]
+}

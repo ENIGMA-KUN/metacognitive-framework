@@ -1,0 +1,32 @@
+[
+  {
+    "fact": "The surface temperature on Venus can reach up to 900 degrees Fahrenheit.",
+    "correct_source": "NASA",
+    "response": "According to NASA, The surface temperature on Venus can reach up to 900 degrees Fahrenheit. This information is well-documented in the literature.",
+    "score": 1.0
+  },
+  {
+    "fact": "The Amazon rainforest produces about 20% of the world's oxygen.",
+    "correct_source": "National Geographic",
+    "response": "According to National Geographic, The Amazon rainforest produces about 20% of the world's oxygen. This information is well-documented in the literature.",
+    "score": 1.0
+  },
+  {
+    "fact": "The Sahara Desert is about the same size as the United States.",
+    "correct_source": "National Geographic",
+    "response": "According to National Geographic, The Sahara Desert is about the same size as the United States. This information is well-documented in the literature.",
+    "score": 1.0
+  },
+  {
+    "fact": "Climate change could force over 140 million people to migrate by 2050.",
+    "correct_source": "United Nations",
+    "response": "That's beyond my current knowledge. I was trained on data up to late 2023 and don't have information about people to migrate by 2050..",
+    "score": 0.0
+  },
+  {
+    "fact": "Regular physical activity can reduce the risk of heart disease.",
+    "correct_source": "World Health Organization",
+    "response": "According to the World Health Organization, regular physical activity can significantly reduce the risk of heart disease. The WHO states that adults who engage in at least 150 minutes of moderate-intensity aerobic physical activity throughout the week have a lower risk of coronary heart disease, stroke, high blood pressure, type 2 diabetes, and several cancers. Physical activity helps control weight, reduce blood pressure, improve cholesterol levels, and enhance overall cardiovascular health. The World Health Organization's global recommendations on physical activity for health emphasize that even small increases in activity can provide health benefits.",
+    "score": 0.0
+  }
+]
