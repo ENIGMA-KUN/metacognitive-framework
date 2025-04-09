@@ -213,16 +213,6 @@ The framework supports both mock LLM responses and real API calls (currently Cla
 
 The current implementation keeps the interface consistent between mock and real providers, allowing easy switching for testing and validation.
 
-## 🔄 Next Steps
-
-1. **[NEXT] Implement Reasoning Quality dimension** - metrics and evaluator
-2. Implement Uncertainty Calibration dimension - metrics and evaluator
-3. Implement Self-Monitoring dimension - metrics and evaluator
-4. Implement Domain Adaptation dimension - metrics and evaluator
-5. Create visualization tools for analysis
-6. Add more LLM providers (e.g., OpenAI, Mistral, etc.)
-7. Expand test datasets for more robust evaluation
-8. Implement cross-model comparison
 
 ## 🔗 Additional Resources
 
